@@ -1,0 +1,7 @@
+hellome is pradipbefore clone need where to create file and start gitbash here
+git clone https://-----above link---
+git config --global user.name'------'
+git config --global user.email'------'
+
+//after that copy python file inside clone file from c:/user
+and perform following action:I make a mistakeI make a mistakehello
